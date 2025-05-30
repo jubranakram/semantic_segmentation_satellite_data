@@ -1,5 +1,7 @@
 ### Satellite Data with Deep Learning
 
+![image](final-product.jpg)
+
 ##### Dataset: Semantic Segmentation of Aerial Imagery
 
 The dataset can be downloaded from Kaggle ![Link](https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery)
